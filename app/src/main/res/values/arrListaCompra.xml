@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arrListaCompra">
+        <item>Leche</item>
+        <item>Huevos</item>
+        <item>Lubinas</item>
+        <item>Codillo</item>
+        <item>Jamón Cocido</item>
+        <item>Salchichas</item>
+        <item>Mayonesa</item>
+        <item>Yogures</item>
+        <item>Chocolate</item>
+        <item>Peras</item>
+        <item>Manzanas</item>
+        <item>Naranjas</item>
+        <item>Ensalada</item>
+        <item>Tomates</item>
+        <item>Cebolla</item>
+        <item>Zanahorias</item>
+        <item>Calabacines</item>
+        <item>Puerros</item>
+        <item>Patatas</item>
+        <item>Pan</item>
+    </string-array>
+</resources>
